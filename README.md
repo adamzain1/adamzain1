@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adamzain1
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning front-end
+- 👀 I’m interested in bioinformatics & genomics
+- 🌱 I’m currently learning bioinformatics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? you can send an email to blackstar97531@gmail.com
 
